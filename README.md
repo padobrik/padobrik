@@ -1,9 +1,9 @@
 ## **Hey there!**
 
-My name is Fedor, I am programming enthusiast.
+My name is Fedor, a programming enthusiast.
 
-Now doing my Master's degree at Peter the Great Saint Petersburg Polytechnic University in Biomedical Informational Systems and Technologies, also working as ML Engineer at GrainFox. The vast part of my free time I spend to do some code with machine learning applications and web development.
+I am an MSc in Biomedical Computing from [Peter the Great Saint Petersburg Polytechnic University](https://english.spbstu.ru/) and am currently working as an ML Engineer and FullStack Web Developer at GrainFox. The vast part of my free time is dedicated to ML research, specifically in the areas of Computer Vision (CV) and Natural Language Processing (NLP).
 
-Hope you enjoy my GitHub profile. Welcome!
+I hope you enjoy exploring my GitHub profile. Welcome!
 
 ![padobrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=padobrik&show_icons=true&theme=radical)
